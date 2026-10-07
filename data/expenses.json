@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "title": "Test Expense",
+        "amount": 100.0,
+        "category": "Education",
+        "description": "Test"
+    }
+]
